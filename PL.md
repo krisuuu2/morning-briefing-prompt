@@ -30,3 +30,8 @@ Cały briefing poniżej 200 słów. Niczego sam nie wysyłaj, nie usuwaj i nie a
 - Zostaw ostatnią linijkę („niczego sam nie wysyłaj…”): briefing ma tylko szkicować, decydujesz Ty.
 
 Autor: [@aipractically](https://www.instagram.com/aipractically/)
+
+## Źródła
+
+- Zaplanowane zadania w Cowork: https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-cowork
+- Claude Duet: https://claude.com/resources/articles/claude-duet

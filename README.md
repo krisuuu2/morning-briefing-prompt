@@ -31,7 +31,7 @@ Keep the whole brief under 200 words. Never send, delete or accept anything your
 
 ## Sources
 
-- Scheduled tasks in Cowork: https://support.claude.com
-- Claude Duet: https://claude.com
+- Scheduled tasks in Cowork: https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-cowork
+- Claude Duet: https://claude.com/resources/articles/claude-duet
 
 Made by [@aipractically](https://www.instagram.com/aipractically/).
